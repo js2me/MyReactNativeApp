@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -11,7 +11,7 @@ import {
 } from "native-base";
 import { Grid, Row, Col } from "react-native-easy-grid";
 
-class NestedGrid extends Component {
+class NestedGrid extends React.Component {
   render() {
     return (
       <Container>

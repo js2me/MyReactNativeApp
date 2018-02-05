@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -37,7 +37,7 @@ const datas = [
   }
 ];
 
-class NHLayout extends Component {
+class NHLayout extends React.Component {
   render() {
     return (
       <Container style={{ backgroundColor: "#FBFAFA" }}>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a2af65c-be4a-4ac9-855c-8b14a003d52f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/background.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppDrawerNavigator.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppNavigator.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo.png" afterPath="" />
@@ -12,7 +13,121 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App.js" afterPath="$PROJECT_DIR$/App.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/boot/setup.js" afterPath="$PROJECT_DIR$/src/boot/setup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/1.js" afterPath="$PROJECT_DIR$/src/screens/Header/1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/2.js" afterPath="$PROJECT_DIR$/src/screens/Header/2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/3.js" afterPath="$PROJECT_DIR$/src/screens/Header/3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/4.js" afterPath="$PROJECT_DIR$/src/screens/Header/4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/5.js" afterPath="$PROJECT_DIR$/src/screens/Header/5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/6.js" afterPath="$PROJECT_DIR$/src/screens/Header/6.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/7.js" afterPath="$PROJECT_DIR$/src/screens/Header/7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/8.js" afterPath="$PROJECT_DIR$/src/screens/Header/8.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/index.android.js" afterPath="$PROJECT_DIR$/src/screens/Header/index.android.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/Header/index.ios.js" afterPath="$PROJECT_DIR$/src/screens/Header/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/actionsheet/icon.js" afterPath="$PROJECT_DIR$/src/screens/actionsheet/icon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/actionsheet/index.android.js" afterPath="$PROJECT_DIR$/src/screens/actionsheet/index.android.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/actionsheet/index.ios.js" afterPath="$PROJECT_DIR$/src/screens/actionsheet/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/actionsheet/regular.js" afterPath="$PROJECT_DIR$/src/screens/actionsheet/regular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/anatomy/data.js" afterPath="$PROJECT_DIR$/src/screens/anatomy/data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/anatomy/index.js" afterPath="$PROJECT_DIR$/src/screens/anatomy/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/badge/index.js" afterPath="$PROJECT_DIR$/src/screens/badge/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/block.js" afterPath="$PROJECT_DIR$/src/screens/button/block.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/custom.js" afterPath="$PROJECT_DIR$/src/screens/button/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/default.js" afterPath="$PROJECT_DIR$/src/screens/button/default.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/disabled.js" afterPath="$PROJECT_DIR$/src/screens/button/disabled.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/full.js" afterPath="$PROJECT_DIR$/src/screens/button/full.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/iconBtn.js" afterPath="$PROJECT_DIR$/src/screens/button/iconBtn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/index.js" afterPath="$PROJECT_DIR$/src/screens/button/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/outline.js" afterPath="$PROJECT_DIR$/src/screens/button/outline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/rounded.js" afterPath="$PROJECT_DIR$/src/screens/button/rounded.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/button/transparent.js" afterPath="$PROJECT_DIR$/src/screens/button/transparent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/card/basic.js" afterPath="$PROJECT_DIR$/src/screens/card/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/card/card-header-and-footer.js" afterPath="$PROJECT_DIR$/src/screens/card/card-header-and-footer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/card/card-image.js" afterPath="$PROJECT_DIR$/src/screens/card/card-image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/card/card-list.js" afterPath="$PROJECT_DIR$/src/screens/card/card-list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/card/card-showcase.js" afterPath="$PROJECT_DIR$/src/screens/card/card-showcase.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/card/index.js" afterPath="$PROJECT_DIR$/src/screens/card/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/checkbox/index.js" afterPath="$PROJECT_DIR$/src/screens/checkbox/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/deckswiper/advanced.js" afterPath="$PROJECT_DIR$/src/screens/deckswiper/advanced.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/deckswiper/index.js" afterPath="$PROJECT_DIR$/src/screens/deckswiper/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/deckswiper/simple.js" afterPath="$PROJECT_DIR$/src/screens/deckswiper/simple.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/fab/basic.js" afterPath="$PROJECT_DIR$/src/screens/fab/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/fab/index.js" afterPath="$PROJECT_DIR$/src/screens/fab/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/fab/multiple.js" afterPath="$PROJECT_DIR$/src/screens/fab/multiple.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/footer/badgeFooter.js" afterPath="$PROJECT_DIR$/src/screens/footer/badgeFooter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/footer/basicFooter.js" afterPath="$PROJECT_DIR$/src/screens/footer/basicFooter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/footer/iconFooter.js" afterPath="$PROJECT_DIR$/src/screens/footer/iconFooter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/footer/iconText.js" afterPath="$PROJECT_DIR$/src/screens/footer/iconText.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/footer/index.js" afterPath="$PROJECT_DIR$/src/screens/footer/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/disabledInput.js" afterPath="$PROJECT_DIR$/src/screens/form/disabledInput.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/error.js" afterPath="$PROJECT_DIR$/src/screens/form/error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/fixedLabel.js" afterPath="$PROJECT_DIR$/src/screens/form/fixedLabel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/floatingLabel.js" afterPath="$PROJECT_DIR$/src/screens/form/floatingLabel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/iconInput.js" afterPath="$PROJECT_DIR$/src/screens/form/iconInput.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/index.js" afterPath="$PROJECT_DIR$/src/screens/form/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/inlineLabel.js" afterPath="$PROJECT_DIR$/src/screens/form/inlineLabel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/placeholder.js" afterPath="$PROJECT_DIR$/src/screens/form/placeholder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/regular.js" afterPath="$PROJECT_DIR$/src/screens/form/regular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/rounded.js" afterPath="$PROJECT_DIR$/src/screens/form/rounded.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/stacked.js" afterPath="$PROJECT_DIR$/src/screens/form/stacked.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/success.js" afterPath="$PROJECT_DIR$/src/screens/form/success.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/textArea.js" afterPath="$PROJECT_DIR$/src/screens/form/textArea.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/form/underline.js" afterPath="$PROJECT_DIR$/src/screens/form/underline.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/home/index.js" afterPath="$PROJECT_DIR$/src/screens/home/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/icon/basic.js" afterPath="$PROJECT_DIR$/src/screens/icon/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/icon/index.js" afterPath="$PROJECT_DIR$/src/screens/icon/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/icon/specific.js" afterPath="$PROJECT_DIR$/src/screens/icon/specific.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/icon/state.js" afterPath="$PROJECT_DIR$/src/screens/icon/state.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/layout/column.js" afterPath="$PROJECT_DIR$/src/screens/layout/column.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/layout/customCol.js" afterPath="$PROJECT_DIR$/src/screens/layout/customCol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/layout/customRow.js" afterPath="$PROJECT_DIR$/src/screens/layout/customRow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/layout/index.js" afterPath="$PROJECT_DIR$/src/screens/layout/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/layout/nested.js" afterPath="$PROJECT_DIR$/src/screens/layout/nested.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/layout/row.js" afterPath="$PROJECT_DIR$/src/screens/layout/row.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/list/basic-list.js" afterPath="$PROJECT_DIR$/src/screens/list/basic-list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/list/index.js" afterPath="$PROJECT_DIR$/src/screens/list/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/list/list-avatar.js" afterPath="$PROJECT_DIR$/src/screens/list/list-avatar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/list/list-divider.js" afterPath="$PROJECT_DIR$/src/screens/list/list-divider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/list/list-headers.js" afterPath="$PROJECT_DIR$/src/screens/list/list-headers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/list/list-icon.js" afterPath="$PROJECT_DIR$/src/screens/list/list-icon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/list/list-separator.js" afterPath="$PROJECT_DIR$/src/screens/list/list-separator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/list/list-thumbnail.js" afterPath="$PROJECT_DIR$/src/screens/list/list-thumbnail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/listSwipe/basic-list-swipe.js" afterPath="$PROJECT_DIR$/src/screens/listSwipe/basic-list-swipe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/listSwipe/index.js" afterPath="$PROJECT_DIR$/src/screens/listSwipe/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/listSwipe/multi-list-swipe.js" afterPath="$PROJECT_DIR$/src/screens/listSwipe/multi-list-swipe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/loaders/ProgressBar.android.js" afterPath="$PROJECT_DIR$/src/screens/loaders/ProgressBar.android.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/loaders/ProgressBar.ios.js" afterPath="$PROJECT_DIR$/src/screens/loaders/ProgressBar.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/loaders/Spinner.android.js" afterPath="$PROJECT_DIR$/src/screens/loaders/Spinner.android.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/loaders/Spinner.ios.js" afterPath="$PROJECT_DIR$/src/screens/loaders/Spinner.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/backButtonPicker.js" afterPath="$PROJECT_DIR$/src/screens/picker/backButtonPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/customHeaderPicker.js" afterPath="$PROJECT_DIR$/src/screens/picker/customHeaderPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/headerPicker.js" afterPath="$PROJECT_DIR$/src/screens/picker/headerPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/headerStylePicker.js" afterPath="$PROJECT_DIR$/src/screens/picker/headerStylePicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/index.android.js" afterPath="$PROJECT_DIR$/src/screens/picker/index.android.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/index.ios.js" afterPath="$PROJECT_DIR$/src/screens/picker/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/placeholderPicker.js" afterPath="$PROJECT_DIR$/src/screens/picker/placeholderPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/placeholderPickernote.js" afterPath="$PROJECT_DIR$/src/screens/picker/placeholderPickernote.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/picker/regularPicker.js" afterPath="$PROJECT_DIR$/src/screens/picker/regularPicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/radio/index.js" afterPath="$PROJECT_DIR$/src/screens/radio/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/searchbar/index.js" afterPath="$PROJECT_DIR$/src/screens/searchbar/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/segment/SegmentHeader.js" afterPath="$PROJECT_DIR$/src/screens/segment/SegmentHeader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/segment/index.js" afterPath="$PROJECT_DIR$/src/screens/segment/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/segment/segmentTab.js" afterPath="$PROJECT_DIR$/src/screens/segment/segmentTab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/sidebar/index.js" afterPath="$PROJECT_DIR$/src/screens/sidebar/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/spinner/index.js" afterPath="$PROJECT_DIR$/src/screens/spinner/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/splashscreen/index.js" afterPath="$PROJECT_DIR$/src/screens/splashscreen/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/basicTab.js" afterPath="$PROJECT_DIR$/src/screens/tab/basicTab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/configTab.js" afterPath="$PROJECT_DIR$/src/screens/tab/configTab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/index.js" afterPath="$PROJECT_DIR$/src/screens/tab/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/scrollableTab.js" afterPath="$PROJECT_DIR$/src/screens/tab/scrollableTab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/tabFive.js" afterPath="$PROJECT_DIR$/src/screens/tab/tabFive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/tabFour.js" afterPath="$PROJECT_DIR$/src/screens/tab/tabFour.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/tabOne.js" afterPath="$PROJECT_DIR$/src/screens/tab/tabOne.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/tabThree.js" afterPath="$PROJECT_DIR$/src/screens/tab/tabThree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/tab/tabTwo.js" afterPath="$PROJECT_DIR$/src/screens/tab/tabTwo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/thumbnail/index.js" afterPath="$PROJECT_DIR$/src/screens/thumbnail/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/toast/index.js" afterPath="$PROJECT_DIR$/src/screens/toast/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/screens/typography/index.js" afterPath="$PROJECT_DIR$/src/screens/typography/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme/components/Spinner.js" afterPath="$PROJECT_DIR$/src/theme/components/Spinner.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
@@ -50,54 +165,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/boot/setup.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Button.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/theme/components/Button.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-828">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AppDrawerNavigator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppDrawerNavigator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
+            <state relative-caret-position="644">
               <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
               <folding />
             </state>
@@ -110,7 +181,7 @@
             <state relative-caret-position="526">
               <caret line="180" column="14" lean-forward="false" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,7 +197,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -136,24 +207,72 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/screens/home/index.js">
+      <file leaf-file-name="AppNavigator.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AppNavigator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="261">
+              <caret line="145" column="9" lean-forward="false" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="9" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppNavigator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AppNavigator.js">
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/anatomy/data.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1311">
-              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/anatomy/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/boot/setup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commonColor.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/theme/variables/commonColor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/Header/1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,7 +281,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Component</find>
       <find>Root</find>
       <find>brandPrimary</find>
       <find>PixelRation</find>
@@ -176,12 +294,18 @@
       <find>spinner</find>
       <find>DrawerOpen</find>
       <find>DrawerNavigator</find>
-      <find>React</find>
-      <find>SideBar</find>
       <find>datas</find>
+      <find>SideBar</find>
+      <find>import React from &quot;react&quot;;</find>
+      <find>import React, { Component } from &quot;react&quot;;</find>
+      <find>extends Component</find>
+      <find>Component</find>
+      <find>React</find>
     </findStrings>
     <replaceStrings>
       <replace>platformIsIOS</replace>
+      <replace>import * as React from &quot;react&quot;;</replace>
+      <replace>extends React.Component</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -204,7 +328,6 @@
         <option value="$PROJECT_DIR$/src/theme/variables/commonColor.js" />
         <option value="$PROJECT_DIR$/src/theme/variables/platform.js" />
         <option value="$PROJECT_DIR$/src/theme/components/Spinner.js" />
-        <option value="$PROJECT_DIR$/src/boot/setup.js" />
         <option value="$PROJECT_DIR$/src/DrawerNavigator.js" />
         <option value="$PROJECT_DIR$/src/AppDrawerNavigator.js" />
         <option value="$PROJECT_DIR$/src/screens/home/index.js" />
@@ -213,6 +336,9 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/screens/anatomy/data.js" />
+        <option value="$PROJECT_DIR$/src/screens/Header/1.js" />
+        <option value="$PROJECT_DIR$/src/boot/setup.js" />
       </list>
     </option>
   </component>
@@ -230,6 +356,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="AppSrc" pattern="file[MyReactNativeApp]:src//*" />
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
@@ -269,6 +398,32 @@
               <item name="MyReactNativeApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyReactNativeApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyReactNativeApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyReactNativeApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyReactNativeApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyReactNativeApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="anatomy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyReactNativeApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyReactNativeApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyReactNativeApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyReactNativeApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="variables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -578,12 +733,12 @@
       <updated>1517698791246</updated>
       <workItem from="1517698796536" duration="4273000" />
       <workItem from="1517765027325" duration="7321000" />
-      <workItem from="1517777757765" duration="11157000" />
+      <workItem from="1517777757765" duration="11683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22751000" />
+    <option name="totallyTimeSpent" value="23277000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,12 +756,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16069546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27041942" sideWeight="0.5052687" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14348786" sideWeight="0.49706313" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14348786" sideWeight="0.49706313" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17913593" sideWeight="0.5125392" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -729,16 +884,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/theme/variables/commonColor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -839,28 +984,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/boot/setup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppNavigator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1311">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -870,7 +997,7 @@
         <state relative-caret-position="207">
           <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="28" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -909,20 +1036,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppDrawerNavigator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/screens/sidebar/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="180" column="14" lean-forward="false" selection-start-line="180" selection-start-column="14" selection-end-line="180" selection-end-column="14" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -943,5 +1062,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppDrawerNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/anatomy/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/anatomy/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/Header/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/boot/setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/theme/variables/commonColor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="145" column="9" lean-forward="false" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>AppSrc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="AppSrc" />
+          </order>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

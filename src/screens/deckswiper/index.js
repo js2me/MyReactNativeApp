@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -25,7 +25,7 @@ const datas = [
     text: "Advanced DeckSwiper"
   }
 ];
-class NHDeckSwiper extends Component {
+class NHDeckSwiper extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

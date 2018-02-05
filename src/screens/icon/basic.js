@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { View } from "react-native";
 
 import {
@@ -15,7 +15,7 @@ import {
 
 import styles from "./styles";
 
-class Basic extends Component {
+class Basic extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

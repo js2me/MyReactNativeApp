@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -16,7 +16,7 @@ import styles from "./styles";
 
 const Item = Picker.Item;
 
-class RegularPicker extends Component {
+class RegularPicker extends React.Component {
   constructor(props) {
     super(props);
     this.state = {

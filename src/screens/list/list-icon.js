@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { Platform } from "react-native";
 import {
   Container,
@@ -22,7 +22,7 @@ import styles from "./styles";
 
 const Item = Picker.Item;
 
-class NHListIcon extends Component {
+class NHListIcon extends React.Component {
   constructor(props) {
     super(props);
     this.state = {

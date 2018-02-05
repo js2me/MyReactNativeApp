@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { Image, View } from "react-native";
 import {
   Container,
@@ -45,7 +45,7 @@ const cards = [
   }
 ];
 
-class AdvancedDeck extends Component {
+class AdvancedDeck extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -25,7 +25,7 @@ const datas = [
   }
 ];
 
-class NHPicker extends Component {
+class NHPicker extends React.Component {
   render() {
     return (
       <Container style={{ backgroundColor: "#fff" }}>

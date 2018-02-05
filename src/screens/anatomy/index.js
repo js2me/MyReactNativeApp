@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -16,7 +16,7 @@ import {
 
 import styles from "./styles";
 
-class Anatomy extends Component {
+class Anatomy extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

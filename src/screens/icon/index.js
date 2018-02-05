@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -16,7 +16,7 @@ import {
 } from "native-base";
 import styles from "./styles";
 
-class NHIcon extends Component {
+class NHIcon extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

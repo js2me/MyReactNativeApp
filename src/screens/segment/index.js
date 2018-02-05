@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -26,7 +26,7 @@ const datas = [
   }
 ];
 
-class NBSegment extends Component {
+class NBSegment extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

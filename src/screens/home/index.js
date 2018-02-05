@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { ImageBackground, View, StatusBar } from "react-native";
 import { Container, Button, H3, Text } from "native-base";
 
@@ -7,7 +7,7 @@ import styles from "./styles";
 const launchscreenBg = require("../../../assets/images/background.jpg");
 const launchscreenLogo = require("../../../assets/logo-kitchen-sink.png");
 
-class Home extends Component {
+class Home extends React.Component {
   render() {
     return (
       <Container>

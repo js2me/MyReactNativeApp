@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 
 import {
   Container,
@@ -48,7 +48,7 @@ const datas = [
   }
 ];
 
-class HeaderNB extends Component {
+class HeaderNB extends React.Component {
   // eslint-disable-line
 
   render() {

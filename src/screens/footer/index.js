@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -34,7 +34,7 @@ const datas = [
   }
 ];
 
-class NHFooter extends Component {
+class NHFooter extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

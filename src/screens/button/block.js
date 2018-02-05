@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -13,7 +13,7 @@ import {
 } from "native-base";
 import styles from "./styles";
 
-class Block extends Component {
+class Block extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

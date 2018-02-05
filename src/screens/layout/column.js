@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -11,7 +11,7 @@ import {
 } from "native-base";
 import { Grid, Col } from "react-native-easy-grid";
 
-class ColumnNB extends Component {
+class ColumnNB extends React.Component {
   render() {
     return (
       <Container>

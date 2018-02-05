@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -17,7 +17,7 @@ var BUTTONS = ["Option 0", "Option 1", "Option 2", "Delete", "Cancel"];
 var DESTRUCTIVE_INDEX = 3;
 var CANCEL_INDEX = 4;
 
-export default class ActionSheetNB extends Component {
+export default class ActionSheetNB extends React.Component {
   constructor(props) {
     super(props);
     this.state = {};

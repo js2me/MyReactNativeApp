@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -14,7 +14,7 @@ import {
 } from "native-base";
 import styles from "./styles";
 
-class IconFooter extends Component {
+class IconFooter extends React.Component {
   constructor(props) {
     super(props);
     this.state = {

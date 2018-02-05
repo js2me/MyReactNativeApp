@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { Image, Dimensions } from "react-native";
 import {
   Container,
@@ -21,7 +21,7 @@ const deviceWidth = Dimensions.get("window").width;
 const logo = require("../../../assets/logo.png");
 const cardImage = require("../../../assets/drawer-cover.png");
 
-class NHCardShowcase extends Component {
+class NHCardShowcase extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

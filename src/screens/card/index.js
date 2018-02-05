@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -38,7 +38,7 @@ const datas = [
   }
 ];
 
-class NHCard extends Component {
+class NHCard extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

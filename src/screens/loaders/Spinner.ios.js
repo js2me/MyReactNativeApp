@@ -1,7 +1,7 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { ActivityIndicatorIOS } from "react-native";
 
-export default class SpinnerNB extends Component {
+export default class SpinnerNB extends React.Component {
   prepareRootProps() {
     const type = {
       height: 80

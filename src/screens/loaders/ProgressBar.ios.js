@@ -1,7 +1,7 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { ProgressViewIOS } from "react-native";
 
-export default class ProgressBarNB extends Component {
+export default class ProgressBarNB extends React.Component {
   render() {
     const getColor = () => {
       if (this.props.color) {

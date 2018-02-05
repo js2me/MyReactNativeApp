@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { ListView } from "react-native";
 import {
   Container,
@@ -27,7 +27,7 @@ const datas = [
   "Phil Coutinho"
 ];
 
-class MultiListSwipe extends Component {
+class MultiListSwipe extends React.Component {
   constructor(props) {
     super(props);
     this.ds = new ListView.DataSource({ rowHasChanged: (r1, r2) => r1 !== r2 });

@@ -1,7 +1,7 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { Content, Card, CardItem, Text, Body } from "native-base";
 
-export default class TabFour extends Component {
+export default class TabFour extends React.Component {
   render() {
     return (
       <Content padder style={{ marginTop: 0 }}>

@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 
 import {
   Container,
@@ -18,7 +18,7 @@ import {
 
 import styles from "./styles";
 
-class Specific extends Component {
+class Specific extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

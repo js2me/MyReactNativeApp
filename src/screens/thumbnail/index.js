@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -18,7 +18,7 @@ import styles from "./styles";
 const logo = require("../../../assets/splashscreen.png");
 const cover = require("../../../assets/web-cover1.jpg");
 
-class NHThumbnail extends Component {
+class NHThumbnail extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

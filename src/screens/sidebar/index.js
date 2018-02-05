@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { Image } from "react-native";
 import {
   Content,
@@ -175,7 +175,7 @@ const datas = [
   }
 ];
 
-class SideBar extends Component {
+class SideBar extends React.Component {
   constructor(props) {
     super(props);
     this.state = {

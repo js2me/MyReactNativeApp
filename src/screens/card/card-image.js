@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import { Image } from "react-native";
 import {
   Container,
@@ -20,7 +20,7 @@ import styles from "./styles";
 const logo = require("../../../assets/logo.png");
 const cardImage = require("../../../assets/drawer-cover.png");
 
-class NHCardImage extends Component {
+class NHCardImage extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

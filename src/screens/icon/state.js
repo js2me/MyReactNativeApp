@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 
 import {
   Container,
@@ -18,7 +18,7 @@ import {
 
 import styles from "./styles";
 
-class State extends Component {
+class State extends React.Component {
   render() {
     return (
       <Container style={styles.container}>

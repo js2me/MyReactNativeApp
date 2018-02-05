@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import * as React from "react";
 import {
   Container,
   Header,
@@ -70,7 +70,7 @@ const datas = [
   }
 ];
 
-class NHForm extends Component {
+class NHForm extends React.Component {
   render() {
     return (
       <Container style={styles.container}>
