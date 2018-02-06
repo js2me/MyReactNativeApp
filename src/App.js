@@ -1,8 +1,8 @@
 import * as React from "react";
-import {Root, View, Spinner} from "native-base";
+import {Root} from "native-base";
 import {Font} from "expo";
-import platformStyles from './theme/variables/platform';
 import {AppNavigator} from './AppNavigator';
+import Loading from "./components/Loading";
 
 
 
@@ -26,18 +26,12 @@ export default class App extends React.Component {
     }
 
     render() {
-        if(!this.state.isLoaded){
-            return (
-                <View style={{flex:1,justifyContent:'center',alignItems:'center'}}>
-                    <Spinner color={platformStyles.brandPrimary}/>
-                </View>
-            )
-        }
-
         return (
-            <Root>
-                <AppNavigator/>
-            </Root>
+            <Loading isLoading={!this.state.isLoaded}>
+                <Root>
+                    <AppNavigator/>
+                </Root>
+            </Loading>
         )
     }
 }

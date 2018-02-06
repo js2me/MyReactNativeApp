@@ -1,9 +1,10 @@
-
+import * as React from "react";
 import {DrawerNavigator} from "react-navigation";
 import Header from "./screens/Header/";
 
 import Home from "./screens/home/";
 import Anatomy from "./screens/anatomy/";
+import Overview from "./screens/Overview/";
 import Footer from "./screens/footer/";
 import NHBadge from "./screens/badge/";
 import NHButton from "./screens/button/";
@@ -35,7 +36,7 @@ import Actionsheet from "./screens/actionsheet";
 export const AppDrawerNavigator = DrawerNavigator(
     {
         Home: {screen: Home},
-        Anatomy: {screen: Anatomy},
+        Overview: {screen: Overview},
         Header: {screen: Header},
         Footer: {screen: Footer},
         NHBadge: {screen: NHBadge},

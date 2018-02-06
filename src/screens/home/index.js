@@ -1,20 +1,18 @@
 import React, { Component } from "react";
 import { ImageBackground, View, StatusBar } from "react-native";
 import { Container, Button, H3, Text } from "native-base";
+import images from 'app-theme/variables/images';
 
 import styles from "./styles";
-
-const launchscreenBg = require("../../../assets/images/background.jpg");
-const launchscreenLogo = require("../../../assets/logo-kitchen-sink.png");
 
 class Home extends Component {
   render() {
     return (
       <Container>
         <StatusBar barStyle="light-content" />
-        <ImageBackground source={launchscreenBg} style={styles.imageContainer}>
+        <ImageBackground source={images.launchScreen} style={styles.imageContainer}>
           <View style={styles.logoContainer}>
-            <ImageBackground source={launchscreenLogo} style={styles.logo} />
+              <Text style={styles.logoText}>OPENDOTA</Text>
           </View>
           <View
             style={{

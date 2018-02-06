@@ -1,3 +1,4 @@
+import * as React from "react";
 import {StackNavigator} from "react-navigation";
 import {AppDrawerNavigator} from './AppDrawerNavigator';
 import TextArea from "./screens/form/textArea";
