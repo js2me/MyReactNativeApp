@@ -1,7 +1,9 @@
 {
   "expo": {
     "sdkVersion": "25.0.0",
-    "privacy":"public",
-    "orientation":"portrait"
-  }
+    "privacy": "public",
+    "orientation": "portrait"
+  },
+  "name": "AndroidStudio",
+  "displayName": "launch screen and search player form"
 }
